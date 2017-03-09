@@ -1,3 +1,1 @@
-<h1>Gemini Snacks
-
-<button type="button>Order</button>
+<button type="button" onclick="alert('Hello world!')">Order!</button>
