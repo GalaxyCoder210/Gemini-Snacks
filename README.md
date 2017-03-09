@@ -5,7 +5,7 @@ We haved shipped to:
 
 
 Arizona
-![](http://arizonaflag.facts.co/arizonastateflagof/ArizonaFlagImage.png)
+![](http://arizonaflag.facts.co/arizonastateflagof/ArizonaFlagImage.png width=200 height=250)
 9 Times
 
 
