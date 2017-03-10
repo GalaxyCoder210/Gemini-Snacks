@@ -17,7 +17,7 @@ We haved shipped to:
 
 
 **Colorado**
-![](http://www.statesymbolsusa.org/sites/statesymbolsusa.org/files/primary-images/flagofColoradoCO.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/255px-Flag_of_Colorado.svg.png)
 **7 Times**
 
 
