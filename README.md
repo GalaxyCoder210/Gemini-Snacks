@@ -1,7 +1,5 @@
 Gemini Snacks sells cookies made from scratch,which are shipped to your door as soon as possible
 
-<eclipse(50,50)>
-
 We haved shipped to:
 
 ---
@@ -65,5 +63,5 @@ We haved shipped to:
 
 If you like cookies,Click the link below to fill out a free survey to have some shipped right to your door!
 
-[cookieOps](http://www.cookieOps.com)
+[CookieOps](http://www.cookieOps.com)
 
