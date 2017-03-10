@@ -1,1 +1,9 @@
-# Gemini-Snacks
+# Gemini Snacks
+
+Welcome to Gemini Snacks!
+
+We make cookies from scratch which are delivered to your doorstep *as soon as possible*!
+
+We have sent over 100 cookies to a dozen locations and four countries.
+
+[Click to find out more!](http://www.cookieops.com/)
