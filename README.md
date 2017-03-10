@@ -41,7 +41,9 @@ We haved shipped to:
 **Virginia**
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/248px-Flag_of_Virginia.svg.png)
 **1 Time**
+
 ---
+
 **Belgium**
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/1182px-Flag_of_Belgium.svg.png)
 **2 Times**
