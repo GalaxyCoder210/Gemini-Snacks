@@ -64,5 +64,5 @@ We haved shipped to:
 
 If you like cookies,Click the link below to fill out a free survey to have some shipped right to your door!
 
-[CookieOps] http://www.cookieops.com/
+http://www.cookieops.com/
 
