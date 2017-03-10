@@ -1,5 +1,6 @@
 Gemini Snacks sells cookies made from scratch,which are shipped to your door as soon as possible
 
+<eclipse(50,50)>
 
 We haved shipped to:
 
