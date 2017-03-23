@@ -14,5 +14,3 @@ Free
 
 
 Fill out a free survey to order cookies!
-
-[Places Wev'e Shipped To](
